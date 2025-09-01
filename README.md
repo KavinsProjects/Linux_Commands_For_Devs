@@ -52,5 +52,4 @@ To install a package using APT (Debian-based systems):
 ```bash
 sudo apt-get install package-name
 
-#Some Of commands are updateing in process
 
