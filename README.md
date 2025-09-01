@@ -1,4 +1,4 @@
-# 🐧 Linux Commands for Developers
+ # 🐧 Linux Commands for Developers
 
 A handy reference for essential Linux commands every developer should know. From navigating the terminal to editing files and managing packages, this guide has you covered.
 
@@ -52,5 +52,5 @@ To install a package using APT (Debian-based systems):
 ```bash
 sudo apt-get install package-name
 
-Some Of commands are updateing in process
+#Some Of commands are updateing in process
 
